@@ -1,3 +1,5 @@
-Encoded: Uk5SRW1odVpYVnRYMjFhbVNYeA==
+# Tugasmu adalah mengurai ini:
+Key 1: Morse -> Base64 -> URL Safe -> Caesar Cipher
+Encoded: .... - - .--. ... -.-.-- .-.-.- -... .. --- .-.-.- -.- --- .-.. .- -... .. .- .-.-.- --- -. .-.. .. -. .-.-.- .. -. .. ..-. .-.. .- --. -... .-. --- .-.-.- - -..- -
 
-...- ..... -.-- ---.. .-.. --. .... ----. .-.. .... -- . ...- ..... -..- ..... -. ..-. -.. .-- ... .-.. .....
+Petunjuk: Decode setiap langkah untuk menemukan URL tersembunyi.
